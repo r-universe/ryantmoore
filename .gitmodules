@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "blockTools"]
+	path = blockTools
+	url = https://github.com/cran/blockTools
+	shallow = true
+	registered = true
+[submodule "muRL"]
+	path = muRL
+	url = https://github.com/cran/muRL
+	shallow = true
+	registered = true
