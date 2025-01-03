@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "blockTools"]
-	path = blockTools
-	url = https://github.com/cran/blockTools
 [submodule "muRL"]
 	path = muRL
 	url = https://github.com/cran/muRL
